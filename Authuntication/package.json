@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.1",
+    "mongoose": "^8.17.1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
