@@ -7,7 +7,7 @@ Everything here is created independently to test and understand concepts — fro
 
 ---
 
-## 🎯 Purpose
+## Purpose 🤔
 
 The main goal of this repository is to:
 
@@ -19,7 +19,7 @@ The main goal of this repository is to:
 
 ---
 
-## 📚 Current Topics Covered
+## Current Topics Covered
 
 - **HTTP & Headers**: Accept, Content-Type, status codes, caching, compression  
 - **CORS**: Simple vs non-simple requests, preflight mechanics, header enforcement  
@@ -32,7 +32,7 @@ The main goal of this repository is to:
 
 ---
 
-## 🧪 Approach
+## Approach 🧪
 
 - Minimal, focused implementations for clarity  
 - Internal notes explaining reasoning and edge cases  
@@ -41,7 +41,7 @@ The main goal of this repository is to:
 
 ---
 
-## ⚙️ Stack
+## Stack
 
 - Node.js  
 - Express.js  
@@ -51,7 +51,7 @@ The main goal of this repository is to:
 
 ---
 
-## 📈 Future Expansion
+## Future Expansion
 
 Planned additions include:
 
