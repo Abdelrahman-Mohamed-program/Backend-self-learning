@@ -32,7 +32,7 @@ The main goal of this repository is to:
 
 ---
 
-## Approach 🧪
+## Approach 
 
 - Minimal, focused implementations for clarity  
 - Internal notes explaining reasoning and edge cases  
